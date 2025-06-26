@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishav Gupta</h1>
-<h3 align="center">Backend Developer | DSA Enthusiast | Hackathon Winner | Always Learning 🚀</h3>
+<h3 align="center">Software Developer | DSA Enthusiast | Hackathon Winner | Always Learning 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Backend+Developer;DSA+Grinder;Open+Source+Contributor;Always+Learning+New+Techs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Development;Problem+Solving;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -11,9 +12,10 @@
 
 - 🥇 **Winner - Smart India Hackathon 2023 (Top 500+ Teams)**
 - 🥇 **Winner - GDSC TMSL Solution Challenge 2023 (1st out of 50+ teams)**
-- 🥈 **Shortlisted - Hack4Bengal 2023 (Top 100 out of 700+ teams)**
-- 💪 Solved **150+ DSA problems on LeetCode**
-- 🏅 Multiple Open Source Contributions
+- 🥈 **Finalists - Smart Bengal Hackerthon 2025 (Top 100 out of 700+ teams)**
+- 🥈 **Finalists - Hack4Bengal 2023 (Top 100 out of 600+ teams)**
+- 💪 Solved **200+ DSA problems on LeetCode**
+
 
 ---
 
