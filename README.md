@@ -12,7 +12,7 @@
 
 - 🥇 **Winner - Smart India Hackathon 2023 (Top 500+ Teams)**
 - 🥇 **Winner - GDSC TMSL Solution Challenge 2023 (1st out of 50+ teams)**
-- 🥈 **Finalists - Smart Bengal Hackerthon 2025 (Top 100 out of 700+ teams)**
+- 🥈 **Finalists - Smart Bengal Hackerthon 2025 (Top 80 out of 700+ teams)**
 - 🥈 **Finalists - Hack4Bengal 2023 (Top 100 out of 600+ teams)**
 - 💪 Solved **200+ DSA problems on LeetCode**
 
