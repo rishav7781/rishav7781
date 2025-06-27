@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | DSA Enthusiast | Hackathon Winner | Always Learning 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Development;Problem+Solving;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Development;Problem+Solving;Active Learner;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 
